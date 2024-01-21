@@ -520,8 +520,7 @@
 
     .projects__categories {
         display: flex;    
-        flex-direction: column;
-        
+        flex-direction: column;        
     }
 
 }
