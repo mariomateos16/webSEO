@@ -518,4 +518,9 @@
         gap: 4rem;
     }
 
+    .projects__categories {
+        display: flex;    
+        flex-direction: column;
+    }
+
 }
